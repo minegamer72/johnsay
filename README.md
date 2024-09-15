@@ -1,3 +1,3 @@
 # johnsay
 JOHN MADDEN!
-usage: johnsay <string>
+usage: johnsay string
